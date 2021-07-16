@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shubhamkurhe
-- 👀 I’m interested in Data Science and Machine Learning and trying to learn some things.
+- 👀 I’m a student interested in Data Science and Machine Learning.
 - 📫 You can reach me @ www.linkedin.com/in/shubham-kurhe
 
 <!---
